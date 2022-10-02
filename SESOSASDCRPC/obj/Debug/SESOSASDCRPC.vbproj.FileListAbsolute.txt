@@ -1,0 +1,16 @@
+C:\Users\MONSTERMC\Downloads\New folder (13)\SESOSASDCRPC\bin\Debug\SESOSASDCRPC.exe.config
+C:\Users\MONSTERMC\Downloads\New folder (13)\SESOSASDCRPC\bin\Debug\SESOSASDCRPC.exe
+C:\Users\MONSTERMC\Downloads\New folder (13)\SESOSASDCRPC\bin\Debug\SESOSASDCRPC.pdb
+C:\Users\MONSTERMC\Downloads\New folder (13)\SESOSASDCRPC\bin\Debug\DiscordRPC.dll
+C:\Users\MONSTERMC\Downloads\New folder (13)\SESOSASDCRPC\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MONSTERMC\Downloads\New folder (13)\SESOSASDCRPC\bin\Debug\DiscordRPC.pdb
+C:\Users\MONSTERMC\Downloads\New folder (13)\SESOSASDCRPC\bin\Debug\DiscordRPC.xml
+C:\Users\MONSTERMC\Downloads\New folder (13)\SESOSASDCRPC\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MONSTERMC\Downloads\New folder (13)\SESOSASDCRPC\obj\Debug\SESOSASDCRPC.vbproj.AssemblyReference.cache
+C:\Users\MONSTERMC\Downloads\New folder (13)\SESOSASDCRPC\obj\Debug\SESOSASDCRPC.Form1.resources
+C:\Users\MONSTERMC\Downloads\New folder (13)\SESOSASDCRPC\obj\Debug\Resources.resources
+C:\Users\MONSTERMC\Downloads\New folder (13)\SESOSASDCRPC\obj\Debug\SESOSASDCRPC.vbproj.GenerateResource.cache
+C:\Users\MONSTERMC\Downloads\New folder (13)\SESOSASDCRPC\obj\Debug\SESOSASDCRPC.vbproj.CoreCompileInputs.cache
+C:\Users\MONSTERMC\Downloads\New folder (13)\SESOSASDCRPC\obj\Debug\SESOSASDCRPC.vbproj.CopyComplete
+C:\Users\MONSTERMC\Downloads\New folder (13)\SESOSASDCRPC\obj\Debug\SESOSASDCRPC.exe
+C:\Users\MONSTERMC\Downloads\New folder (13)\SESOSASDCRPC\obj\Debug\SESOSASDCRPC.pdb
